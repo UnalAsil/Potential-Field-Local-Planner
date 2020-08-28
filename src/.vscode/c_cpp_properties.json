@@ -1,0 +1,57 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/robotic/catkin_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/robotic/catkin_ws/src/navigation/amcl/include/**",
+                "/home/robotic/catkin_ws/src/navigation/asr_ftc_local_planner/include/**",
+                "/home/robotic/catkin_ws/src/navigation/base_local_planner/include/**",
+                "/home/robotic/catkin_ws/src/navigation/carrot_planner/include/**",
+                "/home/robotic/catkin_ws/src/navigation/clear_costmap_recovery/include/**",
+                "/home/robotic/catkin_ws/src/navigation/costmap_2d/include/**",
+                "/home/robotic/catkin_ws/src/navigation/dwa_local_planner/include/**",
+                "/home/robotic/catkin_ws/src/geographic_info/geodesy/include/**",
+                "/home/robotic/catkin_ws/src/navigation/global_planner/include/**",
+                "/home/robotic/catkin_ws/src/navigation/map_server/include/**",
+                "/home/robotic/catkin_ws/src/microstrain_3dm_gx3_45/include/**",
+                "/home/robotic/catkin_ws/src/microstrain_3dmgx2_imu/include/**",
+                "/home/robotic/catkin_ws/src/navigation/move_base/include/**",
+                "/home/robotic/catkin_ws/src/navigation/move_slow_and_clear/include/**",
+                "/home/robotic/catkin_ws/src/navigation/nav_core/include/**",
+                "/home/robotic/catkin_ws/src/navigation/navfn/include/**",
+                "/home/robotic/catkin_ws/src/octomap_msgs/include/**",
+                "/home/robotic/catkin_ws/src/octomap_ros/include/**",
+                "/home/robotic/catkin_ws/src/octomap_mapping/octomap_server/include/**",
+                "/home/robotic/catkin_ws/src/openslam_gmapping/include/**",
+                "/home/robotic/catkin_ws/src/navigation/own_local_planner/include/**",
+                "/home/robotic/catkin_ws/src/perception_pcl/pcl_conversions/include/**",
+                "/home/robotic/catkin_ws/src/perception_pcl/pcl_ros/include/**",
+                "/home/robotic/catkin_ws/src/realsense-ros/realsense2_camera/include/**",
+                "/home/robotic/catkin_ws/src/robot_pose_ekf/include/**",
+                "/home/robotic/catkin_ws/src/navigation/rotate_recovery/include/**",
+                "/home/robotic/catkin_ws/src/rotors_simulator/rotors_control/include/**",
+                "/home/robotic/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/**",
+                "/home/robotic/catkin_ws/src/rotors_simulator/rotors_hil_interface/include/**",
+                "/home/robotic/catkin_ws/src/rotors_simulator/rotors_joy_interface/include/**",
+                "/home/robotic/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/home/robotic/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/home/robotic/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+                "/home/robotic/catkin_ws/src/unique_identifier/unique_id/include/**",
+                "/home/robotic/catkin_ws/src/navigation/voxel_grid/include/**",
+                "/home/robotic/catkin_ws/src/joystick_drivers/wiimote/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
